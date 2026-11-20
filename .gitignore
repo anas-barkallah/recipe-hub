@@ -1,0 +1,23 @@
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# Environment and secrets
+.env
+*.log
+
+# Agent instructions (local only)
+AGENTS.md
+docs/PROJECT_SPECIFICATION.md
+
+# Temporary files
+scratch_*
+*.tmp
